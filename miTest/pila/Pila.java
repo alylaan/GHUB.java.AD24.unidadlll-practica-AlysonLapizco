@@ -1,8 +1,5 @@
-package cola;
- public class Cola<T>{
-    private Nodo<T> cabeza;
-    private Nodo<T>;
-    private int tamanio;
+package pila;
 
-    // consultar por defecto
- }
+public class Pila{
+    
+}
